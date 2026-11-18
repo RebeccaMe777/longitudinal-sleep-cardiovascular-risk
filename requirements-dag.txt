@@ -1,0 +1,8 @@
+# Optional dependencies needed to regenerate the final DAG
+svgwrite>=1.4
+cairosvg>=2.7
+networkx>=3.0
+matplotlib>=3.7
+pillow>=10
+# The archived original six-step renderer also uses Graphviz DOT
+graphviz>=0.20
